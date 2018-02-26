@@ -14,6 +14,11 @@ Compilation:
      
      
 # Example
+
+### animation of process
+
+![animation](https://github.com/lewisfish/quad-trees/blob/master/owl.gif)
+
 ### Input image
 ![input](https://raw.githubusercontent.com/lewisfish/quad-trees/master/owl.png)
 
